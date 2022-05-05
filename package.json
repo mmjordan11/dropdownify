@@ -1,0 +1,22 @@
+{
+  "name": "dropdownify",
+  "version": "1.0.0",
+  "description": "Create dropdown menus by adding a container with a \"dropdownify\" class",
+  "main": "dropdownify.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmjordan11/dropdownify.git"
+  },
+  "keywords": [
+    "dropdown"
+  ],
+  "author": "Matt Jordan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mmjordan11/dropdownify/issues"
+  },
+  "homepage": "https://github.com/mmjordan11/dropdownify#readme"
+}
