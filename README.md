@@ -12,7 +12,7 @@ Make sure npm is installed and then run the following command in your project di
 
 2. Add a div container around your dropdown menu with the class "dropdownify"
 
-
+```
      <div class="dropdownify">
        <h1>Heading 1</h1>
        <p>Option 1</p>
@@ -21,6 +21,7 @@ Make sure npm is installed and then run the following command in your project di
        <p>Option 4</p>
        <p>Option 5</p>
      </div>
+```
 
 The first element in the "dropdownify" container will be the selector to hover over and all following elements will show in the dropdown menu.
 
